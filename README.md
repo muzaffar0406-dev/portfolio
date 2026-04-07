@@ -39,5 +39,5 @@ To run this project locally, follow these steps:
 ## Contact Information
 For inquiries or collaborations, please reach out to me at:
 - Email: your-email@example.com
-- LinkedIn: [Your LinkedIn](https://www.linkedin.com/in/yourprofile)
+- LinkedIn: [Your LinkedIn](https://www.linkedin.com/in/muzaffar-husain-2845ab347?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
 - GitHub: [muzaffar0406-dev](https://github.com/muzaffar0406-dev)
