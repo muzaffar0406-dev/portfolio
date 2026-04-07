@@ -5,7 +5,7 @@ export default function ProjectsSection() {
             desc: "Developed an interactive portfolio using Three.js and Next.js featuring 3D animations and smooth scrolling effects.",
             tags: ["Next.js", "Three.js", "Framer Motion", "Tailwind CSS"],
             link: "https://portfolio-muzaffar04.vercel.app/",
-            github: "https://github.com/muzaffar0406-dev"
+            github: "https://github.com/muzaffar0406-dev/portfolio"
         },
         {
             title: "Horizon Digital",
