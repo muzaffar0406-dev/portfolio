@@ -4,7 +4,7 @@ export default function ProjectsSection() {
             title: "3D Portfolio Website",
             desc: "Developed an interactive portfolio using Three.js and Next.js featuring 3D animations and smooth scrolling effects.",
             tags: ["Next.js", "Three.js", "Framer Motion", "Tailwind CSS"],
-            link: "#",
+            link: "https://portfolio-muzaffar04.vercel.app/",
             github: "https://github.com/muzaffar0406-dev"
         },
         {
