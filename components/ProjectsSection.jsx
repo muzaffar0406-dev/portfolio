@@ -19,7 +19,7 @@ export default function ProjectsSection() {
             desc: "Designed a smart study planner that helps users organize tasks and includes AI-based content summarization.",
             tags: ["React", "AI Integration", "Node.js"],
             link: "http://learnersadda.lovable.app/",
-            github: "https://github.com/Fahad-1001/Study-Planner-AI"
+            github: "https://github.com/muzaffar0406-dev"
         }
     ];
 
